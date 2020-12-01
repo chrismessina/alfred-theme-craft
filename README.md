@@ -48,4 +48,4 @@ Simplify results by switching the result subtext to "Only for Alternative Action
 
 This theme is unaffiliated with nor endorsed by Craft.
 
-<a href="https://www.alfredforum.com/topic/15740-a-theme-inspired-by-the-1980s-like-synthwave-84-for-vs-code/">Alfred Forum link</a>.
+<a href="https://www.alfredforum.com/topic/16247-craft-themes-alfred-43/">Alfred Forum link</a>.
